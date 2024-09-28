@@ -1,4 +1,8 @@
-# Led-control-using-Arduino
+# NAME: Kancharla Narmadha
+
+# REG NO. : 212222110016
+
+# EX NO.1: LED control using Arduino
 
 ## AIM :
 
