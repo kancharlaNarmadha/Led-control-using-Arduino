@@ -1,6 +1,6 @@
-# NAME: Kancharla Narmadha
+NAME: Kancharla Narmadha
 
-# REG NO. : 212222110016
+REG NO. : 212222110016
 
 # EX NO.1: LED control using Arduino
 
